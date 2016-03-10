@@ -1,0 +1,10 @@
+Release
+Debug
+RemoteSystemsTempFiles
+
+.metadata
+.cproject
+.project
+.settings
+
+
